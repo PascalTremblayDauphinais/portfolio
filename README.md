@@ -1,5 +1,4 @@
 # Pascal Tremblay-Dauphinais
----
 # [Coronavirus_search_correlation](https://github.com/PascalTremblayDauphinais/Coronavirus_search_correlation)
 - Outil de visualisation du lien etnre les cas de Covid19 et les recherches par Google pour le terme Covid19
 - Utilise la librairie pytrend pour extraire les données de Google Trend
