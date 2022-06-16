@@ -4,5 +4,6 @@
 - Utilise la librairie pytrend pour extraire les données de Google Trend
 - Utilise l'API Coronavirus COVID19 API
 - Site construit en utilisant le framework Django
-- Hébergé sur [Heroku](https://coronavirus-search-correlation.herokuapp.com/) (il est normal que le site prenne du temps à charger)
+- Hébergé sur [Render](https://coronavirus-search-correlation.herokuapp.com/](https://coronavirus-search-correlation.onrender.com)
+
 ![graphexemple](images/corosearchcorex.JPG)
